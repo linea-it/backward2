@@ -1,0 +1,10 @@
+version: '3.6'
+services:
+  # Web Server Nginx with React Frontend
+  frontend:
+    build: .
+    ports:
+      - 80:80
+    volumes:
+      # Nginx configuration file
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro

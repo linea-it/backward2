@@ -1,0 +1,179 @@
+{
+	"events": [
+    {
+			"id": 1,
+			"day": "01",
+			"date": "07-12-2021",
+      "chair": "Julia Gschwend",
+      "youtube": "https://youtu.be/jveBuqa8qQU",
+			"rows": [{
+				"id": 1,
+				"time": "01:00 - 01:10",
+				"title": "Welcome",
+				"speaker": "Julia Gschwend",
+				"affiliation": "LIneA/INCT do e-Universo",
+        "slide": "",
+        "youtube": ""
+			},
+      {
+				"id": 2,
+				"time": "01:10 - 01:20",
+				"title": "Brazil is now a part of the Rubin Observatory community",
+				"speaker": "Greg Madejski",
+				"affiliation": "SLAC",
+        "slide": "",
+        "youtube": ""
+			},
+      {
+				"id": 3,
+				"time": "01:20 - 01:50",
+				"title": "Rubin Observatory: Construction Status Update and Preparations for Operations",
+				"speaker": "Zeljko Ivezic",
+				"affiliation": "University of Washington",
+        "slide": "",
+        "youtube": ""
+			},
+      {
+				"id": 4,
+				"break": true
+			},
+      {
+				"id": 5,
+				"time": "02:00 - 02:30",
+				"title": "Science Opportunities with the Rubin LSST",
+				"speaker": "Michael Strauss",
+				"affiliation": "Princeton University",
+        "slide": "",
+        "youtube": ""
+			},
+      {
+				"id": 6,
+				"time": "02:30 - 03:00",
+				"title": "Rubin Data and Data Access",
+				"speaker": "Wil O’Mullane",
+				"affiliation": "Rubin Observatory",
+        "slide": "",
+        "youtube": ""
+			},
+      {
+				"id": 7,
+				"time": "03:00 - 03:30",
+				"title": "LSST Corporation: Helping Scientists Use Rubin LSST",
+				"speaker": "Jeniffer Sokoloski",
+				"affiliation": "University of Columbia",
+        "slide": "",
+        "youtube": ""
+			},
+      {
+				"id": 8,
+				"time": "03:30 - 04:00",
+				"title": "Introducing the Rubin Education and Public Outreach Program",
+				"speaker": "Lauren Corlies",
+				"affiliation": "Rubin Observatory",
+        "slide": "",
+        "youtube": ""
+			}]
+		},
+		{
+			"id": 2,
+			"day": "02",
+			"date": "08-12-2021",
+      "chair": "Tassia Ferreira",
+      "youtube": "https://youtu.be/GpbDKHAWrS8",
+			"rows": [{
+				"id": 1,
+				"time": "01:00 - 01:20",
+        "title": "LIneA na era do LSST",
+				"speaker": "Luiz Nicolaci",
+				"affiliation": "LIneA",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 2,
+				"time": "01:20 - 01:40",
+        "title": "LIneA in-kind contribution",
+				"speaker": "Julia Gschwend",
+				"affiliation": "LIneA",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 3,
+				"time": "01:40 - 02:00",
+        "title": "IDAC Brazil",
+				"speaker": "Carlos Adean",
+				"affiliation": "LIneA",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 4,
+				"time": "02:00 - 02:20",
+        "title": "Brazilian Participation Group in the LSST",
+				"speaker": "Rogerio Rosenfeld",
+				"affiliation": "IFT-UNESP/ICTP-SAIFR",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 5,
+				"break": true
+      }, {
+				"id": 6,
+				"time": "02:30 - 02:40",
+        "title": "",
+				"speaker": "Basilio Santiago",
+				"affiliation": "UFRGS",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 7,
+				"time": "02:40 - 02:50",
+        "title": "Ocultações Estelares na era Gaia e LSST",
+				"speaker": "Julio Camargo",
+				"affiliation": "ON",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 8,
+				"time": "02:50 - 03:00",
+        "title": "",
+				"speaker": "Mariana Penna-Lima",
+				"affiliation": "UnB",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 9,
+				"time": "03:00 - 03:10",
+        "title": "",
+				"speaker": "Valerio Marra",
+				"affiliation": "UFES",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 10,
+				"time": "03:10 - 03:20",
+        "title": "",
+				"speaker": "Tassia Ferreira",
+				"affiliation": "LIneA/INCT do e-Universo",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }, {
+				"id": 11,
+				"time": "03:20",
+        "title": "Q&A",
+				"speaker": "All",
+				"affiliation": "",
+        "abstract": "",
+        "slide": "",
+        "youtube": ""
+      }]
+		}
+  ]
+}
