@@ -6,7 +6,7 @@ import styles from './styles';
 
 function Plots() {
   // Change dynamically the page title:
-  document.title = 'LIneA Minicurso | Plots';
+  document.title = 'Curso Git Avançado | Plots';
   const classes = styles();
   const [participants, setParticipants] = useState({ labels: [], values: [] });
 

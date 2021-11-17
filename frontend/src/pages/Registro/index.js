@@ -153,7 +153,7 @@ function Registro() {
                   id="institute"
                   type="text"
                   variant="outlined"
-                  label="Instituto"
+                  label="Instituição"
                   name="institute"
                   placeholder="Utilize apenas siglas maiúsculas"
                   fullWidth

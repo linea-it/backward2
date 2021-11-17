@@ -28,7 +28,7 @@ function Home() {
           </Grid>
           <Grid item xs={12}>
             <Typography variant="h5" align="center" color="primary">
-              Responsável: Glauber Vila Verde (Arquiteto de Software - LIneA)
+              Responsável: Glauber Vila-Verde (Arquiteto de Software - LIneA)
             </Typography>
             <Typography variant="h5" align="center" color="primary">
               Duração: Aproximadamente 2 horas
